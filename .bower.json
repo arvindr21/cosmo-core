@@ -1,6 +1,6 @@
 {
   "name": "cosmo-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": "bootstrap, metro ui, cosmo, cosmo-core, web-components",
   "main": "cosmo-core.html",
   "dependencies": {
