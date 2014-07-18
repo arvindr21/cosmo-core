@@ -1,0 +1,19 @@
+{
+  "name": "cosmo-core",
+  "version": "0.0.1",
+  "keywords": "bootstrap, metro ui, cosmo, cosmo-core, web-components",
+  "main": "cosmo-core.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.1"
+  },
+  "homepage": "https://github.com/arvindr21/cosmo-core",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "f56ec0a28054a9f5951a167a95f56435fca35b45"
+  },
+  "_source": "git://github.com/arvindr21/cosmo-core.git",
+  "_target": "0.0.1",
+  "_originalSource": "cosmo-core"
+}
