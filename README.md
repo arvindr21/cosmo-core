@@ -1,4 +1,4 @@
 cosmo-core
 ================
 
-The core styles for Bootstrap cosmo theme
+The core styles for Bootstrap cosmo theme.
