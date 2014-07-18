@@ -4449,7 +4449,11 @@ a.label:focus {
   position: relative;
   top: -1px;
 }
+<<<<<<< HEAD
 /deep/ .label-default {
+=======
+.label-default {
+>>>>>>> f56ec0a28054a9f5951a167a95f56435fca35b45
   background-color: #222222;
 }
 .label-default[href]:hover,
